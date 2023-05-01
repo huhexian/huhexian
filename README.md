@@ -13,3 +13,15 @@
 </p>
 
 ![HuHeXian's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhexian)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://xlog-card.vercel.app/api/eirms?theme=light"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://xlog-card.vercel.app/api/eirms?theme=dark"
+  />
+  <img src="https://xlog-card.vercel.app/api/eirms?theme=light" alt="" />
+</picture>
