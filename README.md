@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm HuHeXian</h1>
 <h3 align="left">A university student, digital lover, photography lover,blogger.</h3>
 
-- 📝 I regularly write articles on [https://eirms.com](https://eirms.com)
+- 📝 I regularly write articles on [今是昨非](https://zuofei.net)
 
 - 📫 How to reach me **huhexian0206@gmail.com**
 
