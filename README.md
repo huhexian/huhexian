@@ -13,3 +13,7 @@
 [![Telegram Badge](https://img.shields.io/badge/t.me-@huhexian-blue?style=flat&labelColor=555&logo=telegram&logoColor=fff)](https://t.me/huhexian)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=huhexian.huhexian) 
 </div> 
+
+## 博客更新
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
