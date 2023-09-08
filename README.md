@@ -7,7 +7,7 @@
 
 <div align="left">
 
-[![Blog Badge](https://img.shields.io/badge/Blog-zuofei.net-blue?style=flat&logo=wordpress&labelColor=555&logoColor=white)](https://yinji.org/)
+[![Blog Badge](https://img.shields.io/badge/Blog-yinji.org-blue?style=flat&logo=wordpress&labelColor=555&logoColor=white)](https://yinji.org/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-huhexian0206@gmail.com-blue?style=flat&labelColor=555&logo=gmail&link=mailto:huhexian0206@gmail.com&logoColor=fff)](mailto:huhexian0206@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@huhexian-blue?style=flat&labelColor=555&logo=twitter&logoColor=fff)](https://twitter.com/huhexian)
 [![Telegram Badge](https://img.shields.io/badge/t.me-@huhexian-blue?style=flat&labelColor=555&logo=telegram&logoColor=fff)](https://t.me/huhexian)
