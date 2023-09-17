@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [周报 #02 – 寻找那个少年、面试与乘客的文明](https://yinji.org/5117.html)
 - [周报 #01 – 开学、番茄工作法和新的域名](https://yinji.org/5111.html)
 - [Hello，印记！](https://yinji.org/5107.html)
 - [家乡的武功山](https://yinji.org/5102.html)
 - [35 天实习之后，我学到了什么？](https://yinji.org/5100.html)
-- [与博友的第一次见面](https://yinji.org/5094.html)
 <!-- BLOG-POST-LIST:END -->
