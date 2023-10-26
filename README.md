@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [使用 CloudCone 的第 7 个月](https://yinji.org/5166.html)
 - [互联网生存法则：不与他人争辩](https://yinji.org/5163.html)
 - [周报 #05 – 换电池、动态博客还是静态博客？](https://yinji.org/5153.html)
 - [年轻人的第一份博客手册](https://yinji.org/5150.html)
 - [昭萍之光：萍乡博物馆](https://yinji.org/5149.html)
-- [周报 #04 – 口腔溃疡、认知觉醒与返利的讨论](https://yinji.org/5124.html)
 <!-- BLOG-POST-LIST:END -->
