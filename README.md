@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [2023年，你可以用 Thorn 写博客](https://yinji.org/5186.html)
 - [周报 #06 – 奔波的一个多月](https://yinji.org/5183.html)
 - [多写点内容，少折腾工具](https://yinji.org/5182.html)
 - [My App Defaults 2023](https://yinji.org/5179.html)
 - [笔记的方法：持续不断记录，意义自然浮现](https://yinji.org/5178.html)
-- [Perplexity：人工智能驱动的瑞士军刀](https://yinji.org/5169.html)
 <!-- BLOG-POST-LIST:END -->
