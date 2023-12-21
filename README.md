@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [如何订阅一个博客？](https://yinji.org/5211.html)
 - [2023·年度回顾](https://yinji.org/5198.html)
 - [周报 #07 – 铲屎官、内容与外表、新闻女王](https://yinji.org/5195.html)
 - [2023年，你可以用 Thorn 写博客](https://yinji.org/5186.html)
 - [周报 #06 – 奔波的一个多月](https://yinji.org/5183.html)
-- [多写点内容，少折腾工具](https://yinji.org/5182.html)
 <!-- BLOG-POST-LIST:END -->
