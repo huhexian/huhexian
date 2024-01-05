@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [聊聊这几年我做过的兼职](https://yinji.org/5233.html)
 - [充分发挥 ChatGPT 在日常生活中的作用](https://yinji.org/5225.html)
 - [如何搭建一个博客？](https://yinji.org/5223.html)
 - [周报 #08 – 用写作来和世界交流的日子](https://yinji.org/5221.html)
 - [如何订阅一个博客？](https://yinji.org/5211.html)
-- [2023·年度回顾](https://yinji.org/5198.html)
 <!-- BLOG-POST-LIST:END -->
