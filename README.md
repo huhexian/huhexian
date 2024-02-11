@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [使用 Vercel 免费部署 LobeChat](https://yinji.org/5244.html)
 - [写在阅读量破万之后](https://yinji.org/5242.html)
 - [互联网生存法则：别把自己太当回事](https://yinji.org/5240.html)
 - [聊聊这几年我做过的兼职](https://yinji.org/5233.html)
 - [充分发挥 ChatGPT 在日常生活中的作用](https://yinji.org/5225.html)
-- [如何搭建一个博客？](https://yinji.org/5223.html)
 <!-- BLOG-POST-LIST:END -->
