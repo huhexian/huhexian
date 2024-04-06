@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [评论与弹幕](https://yinji.org/5254.html)
 - [Publii：静态博客的另一个选择](https://yinji.org/5251.html)
 - [我与博客的生日](https://yinji.org/5248.html)
 - [使用 Vercel 免费部署 LobeChat](https://yinji.org/5244.html)
 - [写在阅读量破万之后](https://yinji.org/5242.html)
-- [互联网生存法则：别把自己太当回事](https://yinji.org/5240.html)
 <!-- BLOG-POST-LIST:END -->
