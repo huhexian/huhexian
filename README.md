@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [周报 #09 – 灿烂的花园](https://yinji.org/5263.html)
 - [作为数字公民的核心能力：批判性忽视](https://yinji.org/5258.html)
 - [评论与弹幕](https://yinji.org/5254.html)
 - [Publii：静态博客的另一个选择](https://yinji.org/5251.html)
 - [我与博客的生日](https://yinji.org/5248.html)
-- [使用 Vercel 免费部署 LobeChat](https://yinji.org/5244.html)
 <!-- BLOG-POST-LIST:END -->
