@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [加班带来的自由感](https://yinji.org/5273.html)
 - [那些我喜欢的博客](https://yinji.org/5269.html)
 - [周报 #11 – 情绪调节的原则](https://yinji.org/5267.html)
 - [周报 #10 – 我毕业了](https://yinji.org/5265.html)
 - [周报 #09 – 灿烂的花园](https://yinji.org/5263.html)
-- [作为数字公民的核心能力：批判性忽视](https://yinji.org/5258.html)
 <!-- BLOG-POST-LIST:END -->
