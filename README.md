@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [使用 iPhone 半年之后（1）](https://yinji.org/5306.html)
 - [发布在 @FindBlog 频道的一小段话](https://yinji.org/5304.html)
 - [博客精简计划：取消评论](https://yinji.org/5298.html)
 - [从 Bitwarden 开始讲起](https://yinji.org/5276.html)
 - [加班带来的自由感](https://yinji.org/5273.html)
-- [那些我喜欢的博客](https://yinji.org/5269.html)
 <!-- BLOG-POST-LIST:END -->
