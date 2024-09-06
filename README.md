@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [耳机与退货](https://yinji.org/5311.html)
 - [Cloudflare 与 OneKey Card](https://yinji.org/5308.html)
 - [使用 iPhone 半年之后（1）](https://yinji.org/5306.html)
 - [发布在 @FindBlog 频道的一小段话](https://yinji.org/5304.html)
 - [博客精简计划：取消评论](https://yinji.org/5298.html)
-- [从 Bitwarden 开始讲起](https://yinji.org/5276.html)
 <!-- BLOG-POST-LIST:END -->
