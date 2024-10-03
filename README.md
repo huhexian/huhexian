@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [使用 iPhone 半年之后（2）](https://yinji.org/5327.html)
 - [使用 Follow 的第 50 天：RSS 迎来又一春？](https://yinji.org/5317.html)
 - [博客新解](https://yinji.org/5315.html)
 - [耳机与退货](https://yinji.org/5311.html)
 - [Cloudflare 与 OneKey Card](https://yinji.org/5308.html)
-- [使用 iPhone 半年之后（1）](https://yinji.org/5306.html)
 <!-- BLOG-POST-LIST:END -->
