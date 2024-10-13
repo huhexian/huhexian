@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [如何利用 Telegram 打造 0 成本微博客](https://yinji.org/5334.html)
 - [独立博客自省问卷15题](https://yinji.org/5330.html)
 - [使用 iPhone 半年之后（2）](https://yinji.org/5327.html)
 - [使用 Follow 的第 50 天：RSS 迎来又一春？](https://yinji.org/5317.html)
 - [博客新解](https://yinji.org/5315.html)
-- [耳机与退货](https://yinji.org/5311.html)
 <!-- BLOG-POST-LIST:END -->
