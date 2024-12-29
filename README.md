@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [2024 ·年度回顾](https://yinji.org/5383.html)
 - [制定 2025 年的目标](https://yinji.org/5379.html)
 - [把宠物当成家人](https://yinji.org/5373.html)
 - [My App Defaults 2024](https://yinji.org/5370.html)
 - [Less is more](https://yinji.org/5366.html)
-- [相融共生：中德当代艺术展](https://yinji.org/5363.html)
 <!-- BLOG-POST-LIST:END -->
