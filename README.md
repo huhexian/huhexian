@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [地下车库的便利店](https://yinji.org/5392.html)
 - [一个普通人的 EDC](https://yinji.org/5388.html)
 - [用 CloudCone 佣金换来一辆公路车](https://yinji.org/5386.html)
 - [2024 ·年度回顾](https://yinji.org/5383.html)
 - [制定 2025 年的目标](https://yinji.org/5379.html)
-- [把宠物当成家人](https://yinji.org/5373.html)
 <!-- BLOG-POST-LIST:END -->
