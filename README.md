@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [Nikon Z5 开箱体验](https://yinji.org/5414.html)
 - [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html)
 - [元宵节的深度求索](https://yinji.org/5408.html)
 - [地下车库的便利店](https://yinji.org/5392.html)
 - [一个普通人的 EDC](https://yinji.org/5388.html)
-- [用 CloudCone 佣金换来一辆公路车](https://yinji.org/5386.html)
 <!-- BLOG-POST-LIST:END -->
