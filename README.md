@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [博客的七年之痒](https://yinji.org/5421.html)
 - [今日摄影-20250302](https://yinji.org/5417.html)
 - [Nikon Z5 开箱体验](https://yinji.org/5414.html)
 - [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html)
 - [元宵节的深度求索](https://yinji.org/5408.html)
-- [地下车库的便利店](https://yinji.org/5392.html)
 <!-- BLOG-POST-LIST:END -->
