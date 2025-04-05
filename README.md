@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [年轻人的第一台 eSIM 手机](https://yinji.org/5445.html)
 - [摄影随想](https://yinji.org/5442.html)
 - [博客的七年之痒](https://yinji.org/5421.html)
 - [今日摄影-20250302](https://yinji.org/5417.html)
 - [Nikon Z5 开箱体验](https://yinji.org/5414.html)
-- [周报 #12 – 那些不成文的内容](https://yinji.org/5411.html)
 <!-- BLOG-POST-LIST:END -->
