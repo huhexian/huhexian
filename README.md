@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [未曾踏足的小径](https://yinji.org/5471.html)
 - [从做家务开始说起](https://yinji.org/5463.html)
 - [年轻人的第一台 eSIM 手机](https://yinji.org/5445.html)
 - [摄影随想](https://yinji.org/5442.html)
 - [博客的七年之痒](https://yinji.org/5421.html)
-- [今日摄影-20250302](https://yinji.org/5417.html)
 <!-- BLOG-POST-LIST:END -->
