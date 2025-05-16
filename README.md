@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [对网吧的偏见](https://yinji.org/5508.html)
 - [武汉游记](https://yinji.org/5484.html)
 - [未曾踏足的小径](https://yinji.org/5471.html)
 - [从做家务开始说起](https://yinji.org/5463.html)
 - [年轻人的第一台 eSIM 手机](https://yinji.org/5445.html)
-- [摄影随想](https://yinji.org/5442.html)
 <!-- BLOG-POST-LIST:END -->
