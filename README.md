@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [搬家](https://yinji.org/5548.html)
 - [CapWords：写给大朋友和小朋友的英语学习工具](https://yinji.org/5541.html)
 - [楼下的商贩与城管](https://yinji.org/5536.html)
 - [对网吧的偏见](https://yinji.org/5508.html)
 - [武汉游记](https://yinji.org/5484.html)
-- [未曾踏足的小径](https://yinji.org/5471.html)
 <!-- BLOG-POST-LIST:END -->
