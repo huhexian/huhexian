@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
-- [Coming soon](https://yinji.org/coming-soon/)
-- [搬家](https://yinji.org/-e6-90-ac-e5-ae-b6-689d20770ddccf001b2621be/)
+- [搬家](https://yinji.org/-e6-90-ac-e5-ae-b6/)
 - [CapWords：写给大朋友和小朋友的英语学习工具](https://yinji.org/capwords/)
-- [楼下的商贩与城管](https://yinji.org/-e6-a5-bc-e4-b8-8b-e7-9a-84-e5-95-86-e8-b4-a9-e4-b8-8e-e5-9f-8e-e7-ae-a1-689d20770ddccf001b2621bc/)
-- [对网吧的偏见](https://yinji.org/-e5-af-b9-e7-bd-91-e5-90-a7-e7-9a-84-e5-81-8f-e8-a7-81-689d20770ddccf001b2621bb/)
+- [楼下的商贩与城管](https://yinji.org/-e6-a5-bc-e4-b8-8b-e7-9a-84-e5-95-86-e8-b4-a9-e4-b8-8e-e5-9f-8e-e7-ae-a1/)
+- [对网吧的偏见](https://yinji.org/-e5-af-b9-e7-bd-91-e5-90-a7-e7-9a-84-e5-81-8f-e8-a7-81/)
+- [武汉游记](https://yinji.org/wu-han/)
 <!-- BLOG-POST-LIST:END -->
