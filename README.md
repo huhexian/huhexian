@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [从 WordPress 到 Ghost](https://yinji.org/wordpress-to-ghost/)
 - [搬家](https://yinji.org/moving/)
 - [CapWords：写给大朋友和小朋友的英语学习工具](https://yinji.org/capwords/)
 - [楼下的商贩与城管](https://yinji.org/-e6-a5-bc-e4-b8-8b-e7-9a-84-e5-95-86-e8-b4-a9-e4-b8-8e-e5-9f-8e-e7-ae-a1/)
 - [对网吧的偏见](https://yinji.org/-e5-af-b9-e7-bd-91-e5-90-a7-e7-9a-84-e5-81-8f-e8-a7-81/)
-- [武汉游记](https://yinji.org/wu-han/)
 <!-- BLOG-POST-LIST:END -->
