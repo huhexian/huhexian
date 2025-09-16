@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
-- [搬家](https://yinji.org/5548.html)
-- [CapWords：写给大朋友和小朋友的英语学习工具](https://yinji.org/5541.html)
-- [楼下的商贩与城管](https://yinji.org/5536.html)
-- [对网吧的偏见](https://yinji.org/5508.html)
-- [武汉游记](https://yinji.org/5484.html)
+- [收藏的博客](https://yinji.org/blogroll.html)
+- [ActivityPub 与去中心化社交](https://yinji.org/activitypub.html)
+- [Quaily](https://yinji.org/quaily.html)
+- [放在状态栏上的日历工具](https://yinji.org/lunarbar.html)
+- [更换主题后最喜欢做的事情](https://yinji.org/the-things-i-like-to-do-after-changing-theme.html)
 <!-- BLOG-POST-LIST:END -->
