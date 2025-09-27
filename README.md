@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [展示照片的好地方](https://yinji.org/chronoframe.html)
 - [当我在骑车时，我在想什么](https://yinji.org/what-am-i-thinking-when-i-ride-a-bike.html)
 - [收藏的博客](https://yinji.org/blogroll.html)
 - [ActivityPub 与去中心化社交](https://yinji.org/activitypub.html)
 - [Quaily](https://yinji.org/quaily.html)
-- [放在状态栏上的日历工具](https://yinji.org/lunarbar.html)
 <!-- BLOG-POST-LIST:END -->
