@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [不知道吃什么，那就吃肯德基](https://yinji.org/kfc.html)
 - [Spotify](https://yinji.org/spotify.html)
 - [昆明小记](https://yinji.org/kunming.html)
 - [一台 iPad mini 可以带来的体验](https://yinji.org/ipad-mini.html)
 - [我的一天](https://yinji.org/an-ordinary-day.html)
-- [展示照片的好地方](https://yinji.org/chronoframe.html)
 <!-- BLOG-POST-LIST:END -->
