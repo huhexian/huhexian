@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [海口出差随记](https://yinji.org/haikou.html)
 - [真心换真心](https://yinji.org/goose-goose-duck.html)
 - [回顾 2025](https://yinji.org/review-2025.html)
 - [不知道吃什么，那就吃肯德基](https://yinji.org/kfc.html)
 - [Spotify](https://yinji.org/spotify.html)
-- [昆明小记](https://yinji.org/kunming.html)
 <!-- BLOG-POST-LIST:END -->
