@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [春节小记](https://yinji.org/chinese-new-year-2026.html)
 - [再谈霞鹜文楷](https://yinji.org/lxgw-wenkai.html)
 - [海口出差随记](https://yinji.org/haikou.html)
 - [真心换真心](https://yinji.org/goose-goose-duck.html)
 - [回顾 2025](https://yinji.org/review-2025.html)
-- [不知道吃什么，那就吃肯德基](https://yinji.org/kfc.html)
 <!-- BLOG-POST-LIST:END -->
