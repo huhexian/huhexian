@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [雨衣下的世界](https://yinji.org/the-world-under-the-raincoat.html)
 - [梦](https://yinji.org/dream.html)
 - [周报 #13 – 2026 好久不见](https://yinji.org/weekly-report-13-2026.html)
 - [春节小记](https://yinji.org/chinese-new-year-2026.html)
 - [再谈霞鹜文楷](https://yinji.org/lxgw-wenkai.html)
-- [海口出差随记](https://yinji.org/haikou.html)
 <!-- BLOG-POST-LIST:END -->
