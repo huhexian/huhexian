@@ -16,9 +16,9 @@
 
 ## 博客更新
 <!-- BLOG-POST-LIST:START -->
+- [下班以后](https://yinji.org/life-after-work.html)
 - [暹罗没有春天](https://yinji.org/dear-you.html)
 - [金陵三日快时光](https://yinji.org/nan-jing.html)
 - [不要坚持](https://yinji.org/do-not-insist.html)
 - [雨衣下的世界](https://yinji.org/the-world-under-the-raincoat.html)
-- [梦](https://yinji.org/dream.html)
 <!-- BLOG-POST-LIST:END -->
