@@ -18,7 +18,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [周报 #14 – 重新连接](https://yinji.org/weekly-14-reconnect.html/)
 - [我读懂了丁香结](https://yinji.org/the-lilac-knot.html/)
+- [RackNerd 优惠码和促销活动整理-2026](https://yinji.org/racknerd.html)
 - [从 WordPress 到 Hugo](https://yinji.org/from-wordpress-to-hugo.html/)
 - [从免费的地铁说起](https://yinji.org/starting-with-a-free-metro-ride.html/)
-- [暹罗没有春天](https://yinji.org/dear-you.html/)
 <!-- BLOG-POST-LIST:END -->
